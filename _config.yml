@@ -1,0 +1,24 @@
+title: Techniklinko
+description: Technikblog
+
+url: https://long-haul.netlify.app
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+# Header Option
+# header: large
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: Kontakt
+    url: /kontakt
+  - title: Über Uns
+    url: /ueber
+
+social:

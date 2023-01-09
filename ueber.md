@@ -1,0 +1,18 @@
+---
+layout: default
+title: Über Techniklinko
+---
+
+Mein Name ist Daniel und ich bin technikbegeistert und liebe nichts mehr, als die neuesten Gadgets und Software kennenzulernen und daran herumzubasteln. Trotz meiner Liebe zur Technik bin ich auch sehr sozial und lerne gerne neue Leute kennen. 
+
+Vorgeschichte: Ich wuchs in einer kleinen Stadt auf, die offen gesagt etwas langweilig war. Ich verbrachte die meiste Zeit damit, an alten Computern herumzubasteln und mir selbst das Programmieren beizubringen. Nach meinem Schulabschluss zog ich nach Hamburg um an einer renommierten Universität Informatik zu studieren. Heute arbeite ich als Programmierer in einem Technologieunternehmen, wo ich mich ständig selbst ansporne. 
+
+Ich bin ebenfalls ein leidenschaftliche Blogger, der nichts mehr liebt, als meine Gedanken und Erfahrungen mit meinen Lesern zu teilen. Ich bin aufgeschlossen und immer auf der Suche nach neuen und interessanten Themen, über die ich schreiben kann.
+
+Ich bin der Gründer und Autor von Techniklinko, dem beliebten Tech-Blog, der über die neuesten Nachrichten, Trends und Produktbewertungen in der Tech-Branche berichtet.
+
+Ich war schon immer von Technologie fasziniert und gründete Techniklinko, um meine Liebe zu allen technischen Dingen mit der Welt zu teilen. Mit meinem Hintergrund in Informatik und einem scharfen Auge für das Neueste und Beste in der Welt der Technik, versuche ich eine einzigartige Perspektive in meine Artikel eizubringen.
+
+Wenn ich nicht gerade blogge, kann man mich dabei beobachten, wie ich an den neuesten Gadgets bastel, neue Software ausprobiere oder mich an Online-Tech-Communities beteilige. Ich bin außerdem ein begeisterter Gamer.
+
+Heute bin ich dankbar über meinen erfolgreichen Blog und meine große Fangemeinde von treuen Lesern.
